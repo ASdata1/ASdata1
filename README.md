@@ -19,8 +19,8 @@ Aspiring Data Scientist with a strong interest in applying analytical and machin
 ## Skills
 
 **{Languages:}** Python, SQL  
-**\textbf{Libraries:}** Pandas, NumPy, scikit-learn, Matplotlib  
-**\textbf{Tools:}** Power BI, Streamlit, Git/GitHub
+**{Libraries:}** Pandas, NumPy, scikit-learn, Matplotlib  
+**{Tools:}** Power BI, Streamlit, Git/GitHub
 
 ---
 
