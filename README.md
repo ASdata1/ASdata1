@@ -1,3 +1,5 @@
+# Hi There! 
+
 # Aman Shah
 
 Pursuing a degree in MORSE (Mathematics, Operational Research, Statistics and Economics) at the University of Southampton.  
@@ -28,9 +30,10 @@ I am committed to developing my skills in data science and machine learning, foc
 
 ---
 
+
 ## Contact
 
-Email: (add later)
+Email: 04amanshah@gmail.com
 
 ---
 
