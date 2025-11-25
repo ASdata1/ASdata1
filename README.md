@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently pursuing a degree in **MORSE** (Mathematics, Operational Research, Statistics and Economics) at the **University of Southampton**. I aspire to work within data software and am particularly passionate about becoming a **Data Scientist** in the future.
+
 <!--
 **ASdata1/ASdata1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
