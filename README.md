@@ -18,9 +18,9 @@ Aspiring Data Scientist with a strong interest in applying analytical and machin
 
 ## Skills
 
-\textbf{Languages:} Python, SQL  
-\textbf{Libraries:} Pandas, NumPy, scikit-learn, Matplotlib  
-\textbf{Tools:} Power BI, Streamlit, Git/GitHub
+**{Languages:}** Python, SQL  
+**\textbf{Libraries:}** Pandas, NumPy, scikit-learn, Matplotlib  
+**\textbf{Tools:}** Power BI, Streamlit, Git/GitHub
 
 ---
 
@@ -37,4 +37,4 @@ Email: 04amanshah@gmail.com
 
 ---
 
-\textit{Thanks for visiting — feel free to explore my projects.}
+{Thanks for visiting — feel free to explore my projects.}
