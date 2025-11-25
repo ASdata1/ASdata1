@@ -1,16 +1,37 @@
-## Hi there 👋
+# Aman Shah
 
-<!--
-**ASdata1/ASdata1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pursuing a degree in MORSE (Mathematics, Operational Research, Statistics and Economics) at the University of Southampton.  
+Aspiring Data Scientist with a strong interest in applying analytical and machine learning methods within the sports technology industry.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+
+- ADHD Prediction Pipeline (machine learning + Streamlit deployment)
+- Survival Analysis Project – censoring methods and pension claim prediction
+- IBM Data Science Certificate
+- Power BI Portfolio
+
+---
+
+## Skills
+
+\textbf{Languages:} Python, SQL  
+\textbf{Libraries:} Pandas, NumPy, scikit-learn, Matplotlib  
+\textbf{Tools:} Power BI, Streamlit, Git/GitHub
+
+---
+
+## Learning Journey
+
+I am committed to developing my skills in data science and machine learning, focusing on applying them to meaningful real-world contexts. I am particularly motivated by the potential impact of analytics and technology within healthcare and sports.
+
+---
+
+## Contact
+
+Email: (add later)
+
+---
+
+\textit{Thanks for visiting — feel free to explore my projects.}
