@@ -37,4 +37,5 @@ Email: 04amanshah@gmail.com
 
 ---
 
-{Thanks for visiting — feel free to explore my projects.}
+Thanks for visiting — feel free to explore my projects.
+
