@@ -1,5 +1,5 @@
 # 💫 About Me:
-### About Me<br><br>I'm a Data Scientist / ML Engineer in the making, currently building portfolio projects ahead of starting my MSc in Data Science at UCL this September.<br><br>- 🎓 BSc MORSE (Maths, Operational Research, Statistics & Economics) — University of Southampton, First-Class<br>- 📚 Starting an MSc in Data Science at UCL, Sept 2026<br>- 🔭 Currently building applied ML / data science projects<br>- 👨‍🏫 Maths tutor for 3 years<br>- 👕 Founder of Gr4ffik, a graphic sportswear brand<br>- ⛳ Former captain of my university golf team<br><br>Always happy to talk data, models, or side projects.<br><br>
+### About Me<br><br>I'm an aspiring Data Scientist, currently building portfolio projects ahead of starting my MSc in Data Science at UCL this September.<br><br>- 🎓 BSc MORSE (Maths, Operational Research, Statistics & Economics) — University of Southampton, First-Class<br>- 📚 Starting an MSc in Data Science at UCL, Sept 2026<br>- 🔭 Currently building applied ML / data science projects<br>- 👨‍🏫 Maths tutor for 3 years<br>- 👕 Founder of Gr4ffik, a graphic sportswear brand<br>- ⛳ Former captain of my university golf team<br><br>Always happy to talk data, models, or side projects.<br><br>
 
 
 ## 🌐 Socials:
